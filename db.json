@@ -1,0 +1,531 @@
+{
+    "code": 200,
+    "message": "Here's all of our wallpapers!",
+    "data": [
+        {
+            "id": 1,
+            "image": "https://images.unsplash.com/photo-1559583985-c80d8ad9b29f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMDY1OTc2fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
+            "description": "A palm tree in the sunset",
+            "ultraresoulution": false,
+            "color": [
+                "Pink",
+                "Tan"
+            ]
+        },
+        {
+            "id": 2,
+            "image": "https://mobimg.b-cdn.net/v3/fetch/62/62e3ce60fc426fe6f475764cd99779b9.jpeg",
+            "description": "A stary night in the woods",
+            "ultraresoulution": false,
+            "color": [
+                "Blue",
+                "Black"
+            ]
+        },
+        {
+            "id": 3,
+            "image": "https://www.androidguys.com/wp-content/uploads/2015/12/Wave-Wallpapers-1.jpg",
+            "description": "Majestic wave at sunrise",
+            "ultraresoulution": true,
+            "color": [
+                "Blue",
+                "Orange"
+            ]
+        },
+        {
+            "id": 4,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_iPkP5PoQ813rowOH-lgjgIgN_MkJcU9tXYz0as2vrCRmp7DcYG0ylvWdf56tasLwjk&usqp=CAU",
+            "description": "Roaring Lion",
+            "ultraresoulution": false,
+            "color": [
+                "Red",
+                "Black"
+            ]
+        },
+        {
+            "id": 5,
+            "image": "https://4kwallpapers.com/images/walls/thumbs_2t/1003.jpg",
+            "description": "Mcclaren traveling through Neon-art city",
+            "ultraresoulution": true,
+            "color": [
+                "neon",
+                "blue",
+                "black",
+                "purple"
+            ]
+        },
+        {
+            "id": 6,
+            "image": "https://api.time.com/wp-content/uploads/2014/05/wallpaperfx.jpg",
+            "description": "Explosion of vibrant contrasting colors",
+            "ultraresoulution": true,
+            "color": [
+                "red",
+                "blue",
+                "gray",
+                "black",
+                "white",
+                "orange"
+            ]
+        },
+        {
+            "id": 7,
+            "image": "https://images.unsplash.com/photo-1608501078713-8e445a709b39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbHBhcGVyJTIwNGt8ZW58MHx8MHx8&w=1000&q=80",
+            "description": "New York City in Sunset",
+            "ultraresoulution": false,
+            "color": [
+                "Pink",
+                "Purple",
+                "Orange"
+            ]
+        },
+        {
+            "id": 8,
+            "image": "https://images.unsplash.com/photo-1669158424143-3be4e002b36d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=775&q=80",
+            "description": "Birds Eye View of Waterfall",
+            "ultraresoulution": false,
+            "color": [
+                "Blue",
+                "Green"
+            ]
+        },
+        {
+            "id": 9,
+            "image": "https://images.unsplash.com/photo-1669172460021-cf270d946e56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "description": "Hot Air Balloons Raising Across City Terrain ",
+            "ultraresoulution": true,
+            "color": [
+                "Brown",
+                "Orange"
+            ]
+        },
+        {
+            "id": 10,
+            "image": "https://4kwallpapers.com/images/walls/thumbs_2t/8769.jpg",
+            "description": "Space View of Earth",
+            "ultraresoulution": true,
+            "color": [
+                "Black",
+                "Blue",
+                "White"
+            ]
+        },
+        {
+            "id": 11,
+            "image": "https://wallpaperaccess.com/full/269413.jpg",
+            "description": "Man Looking at New York City View at Night",
+            "ultraresoulution": false,
+            "color": [
+                "Blue",
+                "Black"
+            ]
+        },
+        {
+            "id": 12,
+            "image": "https://images.unsplash.com/photo-1554502785-b8b0724b4cbd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80",
+            "description": "Bridge in Sunset",
+            "ultraresoulution": false,
+            "color": [
+                "Orange",
+                "Brown"
+            ]
+        },
+        {
+            "id": 13,
+            "image": "https://wallpaperaccess.com/full/2159510.jpg",
+            "description": "Side-View of Volcanic Eruption in Sunset",
+            "ultraresoulution": true,
+            "color": [
+                "Orange",
+                "Purple",
+                "Blue"
+            ]
+        },
+        {
+            "id": 14,
+            "image": "https://c4.wallpaperflare.com/wallpaper/108/140/869/digital-digital-art-artwork-fantasy-art-drawing-hd-wallpaper-preview.jpg",
+            "description": "Girl starring into a galaxy",
+            "ultraresoulution": false,
+            "color": [
+                "Pink",
+                "Purple"
+            ]
+        },
+        {
+            "id": 15,
+            "image": "https://4kwallpapers.com/images/walls/thumbs_2t/5630.jpg",
+            "description": "Blue Design",
+            "ultraresoulution": true,
+            "color": [
+                "Blue"
+            ]
+        },
+        {
+            "id": 16,
+            "image": "https://images.wallpapersden.com/image/download/4k-talking-to-the-moon_a2pubmuUmZqaraWkpJRobWllrWdma2U.jpg",
+            "description": "Boy Looking into the Starry Night With Moon Background",
+            "ultraresoulution": false,
+            "color": [
+                "Black",
+                "Gray"
+            ]
+        },
+        {
+            "id": 17,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AuXNmmZ9jgq1MZ5r033BHNxvOYfMEYjLrw&usqp=CAU",
+            "description": "New York City in Sunset",
+            "ultraresoulution": false,
+            "color": [
+                "Pink",
+                "Purple",
+                "Orange"
+            ]
+        },
+        {
+            "id": 18,
+            "image": "https://i.pinimg.com/originals/58/2d/96/582d96a1df2d94bb439af1594639ccfe.jpg",
+            "description": "Landscape of Woods with Sunset",
+            "ultraresoulution": false,
+            "color": [
+                "Green",
+                "Orange"
+            ]
+        },
+        {
+            "id": 19,
+            "image": "https://wallpaperwoo.com/uploads/pictures/wallpapers/original/110671_53e75f9dfa3d61dff2ad36e4832d3406.jpg",
+            "description": "Ground View of Terrain With Sunset",
+            "ultraresoulution": true,
+            "color": [
+                "Purple",
+                "Orange"
+            ]
+        },
+        {
+            "id": 20,
+            "image": "https://wallpapers.com/images/hd/retrowave-car-4k-08j907mahnj4b6jt.jpg",
+            "description": "Retro Wave Car Driving Through Vice City Landscape",
+            "ultraresoulution": true,
+            "color": [
+                "Pink",
+                "Purple",
+                "Neon",
+                "Blue"
+            ]
+        },
+        {
+            "id": 21,
+            "image": "https://wallpaperaccess.com/full/799794.jpg",
+            "description": "Cloudy City",
+            "ultraresoulution": true,
+            "color": [
+                "Gray",
+                "Blue"
+            ]
+        },
+        {
+            "id": 22,
+            "image": "https://photos.smugmug.com/Wallpapers/i-9f7H7SN/0/01c72b86/O/HDRshooter-4K-wallpaper-053-3840x2160.jpg",
+            "description": "Lighthouse on Beach During Sunset",
+            "ultraresoulution": false,
+            "color": [
+                "Pink",
+                "Purple",
+                "Orange"
+            ]
+        },
+        {
+            "id": 23,
+            "image": "https://www.guidingtech.com/wp-content/uploads/Stunning-Space-Wallpapers-11_4d470f76dc99e18ad75087b1b8410ea9.png",
+            "description": "New York City During Sunset",
+            "ultraresoulution": false,
+            "color": [
+                "Pink",
+                "Purple",
+                "Orange"
+            ]
+        },
+        {
+            "id": 24,
+            "image": "https://wallpaperaccess.com/full/17520.jpg",
+            "description": "Dark and Cloudy Sky",
+            "ultraresoulution": true,
+            "color": [
+                "Blue",
+                "Gray"
+            ]
+        },
+        {
+            "id": 25,
+            "image": "https://wallpaperaccess.com/full/435988.jpg",
+            "description": "Splitting Image of Night and Day",
+            "ultraresoulution": true,
+            "color": [
+                "Blue",
+                "Gray",
+                "Orange"
+            ]
+        },
+        {
+            "id": 26,
+            "image": "https://photos.smugmug.com/Wallpapers/i-Lw6hnGq/0/f91236c1/O/HDRshooter-4K-wallpaper-066-3840x2160.jpg",
+            "description": "City on Italian Coast",
+            "ultraresoulution": true,
+            "color": [
+                "Blue",
+                "Yellow"
+            ]
+        },
+        {
+            "id": 27,
+            "image": "https://wallpapers.com/images/featured/9w27dqmc4nrs3xwd.jpg",
+            "description": "Astronaut in Space",
+            "ultraresoulution": true,
+            "color": [
+                "Black",
+                "White",
+                "Blue"
+            ]
+        },
+        {
+            "id": 28,
+            "image": "https://free4kwallpapers.com/uploads/originals/2020/11/14/artistic-landscape-wallpaper.jpg",
+            "description": "Tree in Cloudy Terrain",
+            "ultraresoulution": true,
+            "color": [
+                "Orange",
+                "Blue",
+                "White"
+            ]
+        },
+        {
+            "id": 29,
+            "image": "https://wallpapers.com/images/hd/4k-minimalist-mountains-9oitratl6gd996za.jpg",
+            "description": "Man Fishing Next to Island",
+            "ultraresoulution": false,
+            "color": [
+                "Blue",
+                "Red",
+                "Yellow"
+            ]
+        },
+        {
+            "id": 30,
+            "image": "https://www.pixelstalk.net/wp-content/uploads/images5/4K-PC-Desktop-Wallpapers-scaled.jpg",
+            "description": "City at Night",
+            "ultraresoulution": true,
+            "color": [
+                "Yellow",
+                "Blue"
+            ]
+        },
+        {
+            "id": 31,
+            "image": "https://c4.wallpaperflare.com/wallpaper/952/536/1006/winter-4k-pc-desktop-wallpaper-thumb.jpg",
+            "description": "Snowy Night in the Woods ",
+            "ultraresoulution": true,
+            "color": [
+                "Black",
+                "White",
+                "Gray",
+                "Yellow"
+            ]
+        },
+        {
+            "id": 32,
+            "image": "https://images.unsplash.com/photo-1491466424936-e304919aada7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+            "description": "Northern Lights Canyon at Night ",
+            "ultraresoulution": false,
+            "color": [
+                "Black",
+                "Blue"
+            ]
+        },
+        {
+            "id": 33,
+            "image": "https://images.unsplash.com/photo-1501949997128-2fdb9f6428f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "description": "Breaking Sea Wave ",
+            "ultraresoulution": false,
+            "color": [
+                "White",
+                "Blue"
+            ]
+        },
+        {
+            "id": 34,
+            "image": "https://images.unsplash.com/photo-1500673922987-e212871fec22?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "description": "Golden forest pathway",
+            "ultraresoulution": false,
+            "color": [
+                "Gold",
+                "Brown"
+            ]
+        },
+        {
+            "id": 35,
+            "image": "https://images.unsplash.com/photo-1473800447596-01729482b8eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "description": "Snowy Mountains With Sunrise",
+            "ultraresoulution": false,
+            "color": [
+                "Blue",
+                "White",
+                "Orange"
+            ]
+        },
+        {
+            "id": 36,
+            "image": "https://images.unsplash.com/photo-1499678329028-101435549a4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "description": "Vernazza sunset",
+            "ultraresoulution": false,
+            "color": [
+                "Orange",
+                "Blue",
+                "Gray"
+            ]
+        },
+        {
+            "id": 37,
+            "image": "https://images.unsplash.com/photo-1476610182048-b716b8518aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1259&q=80",
+            "description": "Idyllic landscape with a waterfall in Iceland",
+            "ultraresoulution": false,
+            "color": [
+                "Green",
+                "Blue"
+            ]
+        },
+        {
+            "id": 38,
+            "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1275&q=80",
+            "description": "Grasslands in China",
+            "ultraresoulution": false,
+            "color": [
+                "Green"
+            ]
+        },
+        {
+            "id": 39,
+            "image": "https://images.unsplash.com/photo-1518098268026-4e89f1a2cd8e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "description": "Amazing Sunset in Tuscany",
+            "ultraresoulution": false,
+            "color": [
+                "Green",
+                "Orange",
+                "Blue"
+            ]
+        },
+        {
+            "id": 40,
+            "image": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+            "description": "Blue lake and green shore",
+            "ultraresoulution": false,
+            "color": [
+                "Green",
+                "Blue"
+            ]
+        },
+        {
+            "id": 41,
+            "image": "https://images.unsplash.com/photo-1560131324-735a23ea0304?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "description": "Texture Photo of Sand dunes",
+            "ultraresoulution": false,
+            "color": [
+                "Tan"
+            ]
+        },
+        {
+            "id": 42,
+            "image": "https://images.unsplash.com/photo-1559762412-627400abeec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "description": "Sunny Day Under Palm Trees",
+            "ultraresoulution": false,
+            "color": [
+                "Blue",
+                "Green"
+            ]
+        },
+        {
+            "id": 43,
+            "image": "https://images.unsplash.com/photo-1474524955719-b9f87c50ce47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+            "description": "San Diego Beach Sunrise",
+            "ultraresoulution": false,
+            "color": [
+                "Orange",
+                "Blue"
+            ]
+        },
+        {
+            "id": 44,
+            "image": "https://images.unsplash.com/photo-1452274381522-521513015433?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80",
+            "description": "Bear Family in YellowStone",
+            "ultraresoulution": false,
+            "color": [
+                "Yellow",
+                "Blue"
+            ]
+        },
+        {
+            "id": 45,
+            "image": "https://images.unsplash.com/photo-1510024288543-f0f81b48f82d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "description": "Sierra Nevada Snow Capped Mountains",
+            "ultraresoulution": false,
+            "color": [
+                "Brown",
+                "Blue",
+                "Green"
+            ]
+        },
+        {
+            "id": 46,
+            "image": "https://images.unsplash.com/photo-1503788760144-795d5cdf0f56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "description": "Kirkjufell Mountain in Iceland",
+            "ultraresoulution": false,
+            "color": [
+                "Brown",
+                "Blue",
+                "Green"
+            ]
+        },
+        {
+            "id": 47,
+            "image": "https://images.unsplash.com/photo-1487028463993-b7f901a8c2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "description": "Mount Tamalpais Sunset",
+            "ultraresoulution": false,
+            "color": [
+                "Green",
+                "Orange",
+                "White"
+            ]
+        },
+        {
+            "id": 48,
+            "image": "https://images.unsplash.com/photo-1481647619655-8fd4de94e775?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "description": "Coastline of Kauai",
+            "ultraresoulution": false,
+            "color": [
+                "Green",
+                "Blue",
+                "White"
+            ]
+        },
+        {
+            "id": 49,
+            "image": "https://images.unsplash.com/photo-1479819893311-9c362f79976e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "description": "Stormy Mountain Sky",
+            "ultraresoulution": false,
+            "color": [
+                "Gray",
+                "Blue",
+                "White"
+            ]
+        },
+        {
+            "id": 50,
+            "image": "https://images.unsplash.com/photo-1477573893384-10fa704dfbd9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "description": "Eroded Icelandic mountain",
+            "ultraresoulution": false,
+            "color": [
+                "Brown",
+                "Green"
+            ]
+        }
+    ]
+}
